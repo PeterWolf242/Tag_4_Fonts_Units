@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: "Tahoma", sans-serif;
+    font-size: 48px;
+    background-color: #333;
+    color: white;
+    padding: 0.5rem 0;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+p:nth-of-type(1) {
+    font-family: "Lucida Sans Unicode", sans-serif;
+    text-indent: 40px;
+    margin: 0 2rem 2rem 0;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    word-spacing: 20px;
+}
+
+p:nth-of-type(2) {
+    text-indent: 30px;
+    word-break: 10px;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    text-shadow: 2px 0 5px black;
+    margin: 0 2rem 2rem 2rem;
+}
+
+p:nth-of-type(3) {
+    background-color: #878686;
+    padding: 0.5rem 0 0.5rem 2rem;
+}
+
+p:nth-of-type(4) {
+    background-color: #333;
+    color: whitesmoke;
+    margin: 2rem 0;
+    padding: 0.5rem 0 0.5rem 2rem;
+}
